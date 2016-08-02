@@ -15,7 +15,7 @@ import {
 const defaultOpts = {
   type: 'query',
   length: 5
-}
+};
 
 /**
  * upload resource to cdn
